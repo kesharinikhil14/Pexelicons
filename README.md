@@ -1,54 +1,93 @@
-# <a href="https://vinodjangid07.github.io/Pexelicons" target="_blank">Pexelicons</a>
-
-![Pexelicons Logo](assets/images/Websitescreenshot.png)
-
-Pexelicons is a website that offers custom folder icons for Windows, allowing users to personalize their PC by changing the default folder icons to match their style preferences.
-
-## Features
-
-- 🎨 **Custom Icons:** Explore a world of personalized file folder icons inspired by various themes.
-- 🚀 **Easy to Use:** Download and apply custom icons to your folders effortlessly.
-- 💻 **Compatibility:** Icons are provided in ICO format, ensuring compatibility with Windows systems.
-
-## Table of Contents
-
-- [Getting Started](#getting-started)
-  - [Download Icons](#download-icons)
-  - [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
-## Getting Started
-
-### Download Icons
-
-Visit the [Pexelicons Website](https://vinodjangid07.github.io/Pexelicons) to download custom folder icons for your PC.
-
-### How to Use
-
-Follow these steps to apply custom icons to your folders:
-
-1. **Download a Custom Icon:** Download a custom icon (ICO file) that you want to use for your folder. Icons are provided in ICO format, ensuring compatibility with Windows systems.
-2. **Copy the ICO File to the Folder:** Copy the custom ICO file to the folder for which you want to change the icon.
-3. **Right-click on the Folder:** Right-click on the folder, and select "Properties" from the context menu.
-4. **Go to the "Customize" Tab:** In the folder properties window, go to the "Customize" tab.
-5. **Click on "Change Icon":** Look for the "Change Icon" button and click on it.
-6. **Browse for the Custom ICO File:** Browse to the location where you copied the custom ICO file and select it.
-7. **Apply and OK:** Apply the changes, and then click "OK" to close the properties window.
-
-## Contributing
-
-If you'd like to contribute to Pexelicons, feel free to open an issue or submit a pull request. Your contributions are highly appreciated!
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-- For inquiries, contact infovinodjangid@gmail.com
+Thanks! Here's your fully updated and polished `README.md` file with the correct **live project link**, **email**, and **GitHub username** (`kesharinikhil14`):
 
 ---
 
-<p align="center">Design & Built by <a href="https://github.com/vinodjangid07">@Vinodjangid07</a> | &copy; twentytwentyfour</p>
+```markdown
+# 🌟 Pexelicons – Custom Windows Folder Icons Web App
+
+![Project Screenshot](assets/images/Websitescreenshot.png)
+
+**Pexelicons** is a modern, responsive single-page web application that allows users to browse, preview, and download custom-designed folder icons for Windows. Built with HTML5, CSS3, and JavaScript, the platform delivers a smooth and engaging user experience with dynamic features like theme toggling, animated preloader, and one-click file downloads using FileSaver.js.
+
+## 🚀 Live Demo
+
+🔗 [View Live Project](https://kesharinikhil14.github.io/Pexelicons)
+
+## ✨ Features
+
+- 🎨 **Custom Folder Icons** – Browse a collection of aesthetic folder icons in `.ico` format.
+- ⚡ **Single Page Application** – Fast and seamless navigation without reloads.
+- 💡 **Dark/Light Mode Toggle** – User-friendly theme switching with animations.
+- 🌀 **Animated Preloader** – Engaging preloader animation on page load.
+- 📥 **One-click Download** – Easily download icons with the integrated FileSaver.js.
+- 💻 **Responsive Design** – Mobile-friendly and optimized for all screen sizes.
+
+## 🛠️ Tech Stack
+
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Animations & Effects**: AOS (Animate on Scroll), CSS keyframes
+- **Utilities**: FileSaver.js for downloading icons
+- **Design Focus**: UX/UI, responsive layout, DOM manipulation
+
+## 📁 Folder Structure
+
+```
+
+Pexelicons/
+├── assets/
+│   ├── fonts/
+│   └── images/
+├── index.html
+├── index.css
+├── preloader.css
+├── script.js
+├── FileSaver.js
+└── README.md
+
+````
+
+## 🔧 How to Use
+
+1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/kesharinikhil14/Pexelicons.git
+   cd Pexelicons
+````
+
+2. **Open `index.html` in Browser**
+   Double-click or open `index.html` with Live Server in VSCode.
+
+3. **Download an Icon**
+
+   * Click the download button below any icon to download its `.ico` file.
+   * To apply the icon, right-click any folder → *Properties* → *Customize* → *Change Icon* → Browse to downloaded icon.
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="assets/images/Websitescreenshot.png" alt="Website Preview" width="700"/>
+</p>
+
+## 🤝 Contributing
+
+Contributions are welcome! If you have ideas to improve the website or want to add new icons, feel free to open an issue or submit a pull request.
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## 📬 Contact
+
+* 📧 Email: [kesharinikhil14@gmail.com](mailto:kesharinikhil14@gmail.com)
+* 🧑‍💻 GitHub: [github.com/kesharinikhil14](https://github.com/kesharinikhil14)
+
+---
+
+> © 2024 Nikhil Keshari — All rights reserved.
+
+```
+
+---
+
+Let me know if you'd like this converted into a downloadable `.md` file or need a version for your portfolio site.
+```
